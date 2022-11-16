@@ -11470,6 +11470,7 @@ html {
 
 body {
   letter-spacing: 0.0625em;
+  background-color: #C98F54;
 }
 
 #mainNav {
@@ -11736,6 +11737,38 @@ body {
   bottom: 50px;
 }
 
+#page-one-button {
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  right: 100px;
+  bottom: 50px;
+}
+
+#page-two-button {
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  right: 100px;
+  bottom: 50px;
+}
+
+#page-three-button {
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  right: 100px;
+  bottom: 50px;
+}
+
+#page-four-button {
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  right: 100px;
+  bottom: 50px;
+}
+
 /* Timeline styling from Agency template*/
 
 .timeline {
@@ -11793,7 +11826,7 @@ body {
   margin-left: 0;
   text-align: center;
   color: white;
-  border: 7px solid #e9ecef;
+  border: 7px solid #000;
   border-radius: 100%;
   background-color: #ffc800;
 }
