@@ -11714,6 +11714,8 @@ body {
   position: relative;
   top: -500px;
   font-family: 'Poppins', sans-serif;
+  color: white;
+  text-shadow: #000;
 }
 
 .index-subheading {
@@ -11722,6 +11724,8 @@ body {
   top: -450px;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
+  color: white;
+  text-shadow: #000;
 }
 
 #index-button {
