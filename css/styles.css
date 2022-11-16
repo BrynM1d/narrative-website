@@ -11725,12 +11725,12 @@ body {
 }
 
 .index-button {
-  position: relative;
-  left: 1700px;
-  top: -150px;
   border-radius: 5px;
   background-color: black;
   color: white;
+  margin-left: 1450px;
+  margin-top: -150px;
+  position: absolute;
 }
 
 /* Timeline styling from Agency template*/
