@@ -11734,7 +11734,17 @@ body {
   background-color: black;
   color: white;
   right: 100px;
-  bottom: 50px;
+  bottom: -150px;
+}
+
+h3 {
+  text-align: center;
+  position: relative;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  color: white;
+  text-shadow: #000;
+  top: -250px;
 }
 
 #page-one-button {
