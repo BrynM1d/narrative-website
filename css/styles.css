@@ -11794,7 +11794,7 @@ h3 {
   width: 2px;
   margin-left: -1.5px;
   content: "";
-  background-color: black;
+  background-color: #000000;
 }
 .timeline > li {
   position: relative;
