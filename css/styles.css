@@ -11718,6 +11718,7 @@ body {
   color: white;
   text-shadow: #000;
   -webkit-text-stroke: 1px #000;
+  color: #e3bf6b;
 }
 
 .index-subheading {
@@ -11729,12 +11730,14 @@ body {
   color: white;
   text-shadow: #000;
   -webkit-text-stroke: 1px #000;
+  color: #e3bf6b;
 }
 
 .index-text {
   padding-left: 100px;
   padding-right: 100px;
   -webkit-text-stroke: 1px #000;
+  color: #e3bf6b;
 }
 
 #index-button {
