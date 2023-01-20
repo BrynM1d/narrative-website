@@ -11717,6 +11717,7 @@ body {
   font-family: 'Poppins', sans-serif;
   color: white;
   text-shadow: #000;
+  -webkit-text-stroke: 1px #000;
 }
 
 .index-subheading {
@@ -11727,6 +11728,13 @@ body {
   font-size: 20px;
   color: white;
   text-shadow: #000;
+  -webkit-text-stroke: 1px #000;
+}
+
+.index-text {
+  padding-left: 100px;
+  padding-right: 100px;
+  -webkit-text-stroke: 1px #000;
 }
 
 #index-button {
